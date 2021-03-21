@@ -5,5 +5,6 @@ Python script for SQL server connection [windows authentication].
      Also, inserting the data read from a database table to another table.
 
 We cab also make use of Python Pandas Library to compare the files.
-Check my repo for the same:- 
+         Check my repo for the same:- 
+
          https://github.com/Harshad06/Comparing-Two-files-in-Python
