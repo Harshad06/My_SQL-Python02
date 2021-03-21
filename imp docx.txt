@@ -1,0 +1,7 @@
+
+'''
+for xlrd installtion:-
+
+	pip install xlrd==1.2.0
+'''
+new latest version of xlrd only supports '.xls' file and not the '.xlsx' file.
